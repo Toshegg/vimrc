@@ -1,13 +1,1 @@
-https://github.com/jiangmiao/auto-pairs.git
-https://github.com/scrooloose/nerdtree.git
-https://github.com/ervandew/supertab.git
-https://github.com/seratch/vim-angular-coffee.git
-git://github.com/tpope/vim-bundler.git
-https://github.com/kchmck/vim-coffee-script.git
-git://github.com/altercation/vim-colors-solarized.git
-https://github.com/easymotion/vim-easymotion.git
-https://github.com/nathanaelkane/vim-indent-guides.git
-https://github.com/groenewege/vim-less
-https://github.com/xolox/vim-misc.git
-git://github.com/tpope/vim-rails.git
-git://github.com/vim-ruby/vim-ruby.git
+https://github.com/jiangmiao/auto-pairs.git https://github.com/scrooloose/nerdtree.git https://github.com/ervandew/supertab.git https://github.com/seratch/vim-angular-coffee.git git://github.com/tpope/vim-bundler.git https://github.com/kchmck/vim-coffee-script.git git://github.com/altercation/vim-colors-solarized.git https://github.com/easymotion/vim-easymotion.git https://github.com/nathanaelkane/vim-indent-guides.git https://github.com/groenewege/vim-less https://github.com/xolox/vim-misc.git git://github.com/tpope/vim-rails.git git://github.com/vim-ruby/vim-ruby.git 
