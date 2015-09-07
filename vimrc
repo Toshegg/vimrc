@@ -2,6 +2,7 @@ noremap j h
 noremap k j
 noremap l k
 noremap ; l
+noremap h ;
 
 noremap <C-w>j :wincmd h<CR>
 noremap <C-w>k :wincmd j<CR>
@@ -15,14 +16,13 @@ set autoindent
 set number
 set tabstop=2 shiftwidth=2 expandtab
 
-set background=dark
-let g:solarized_termcolors=256
-colorscheme solarized
+se t_Co=16
+colorscheme darcula
 
 autocmd VimEnter * IndentGuidesEnable
 let g:indent_guides_auto_colors = 0
-hi IndentGuidesOdd  ctermbg=235
-hi IndentGuidesEven ctermbg=236
+hi IndentGuidesOdd  ctermbg=236
+hi IndentGuidesEven ctermbg=238
 
 filetype plugin indent on
 
